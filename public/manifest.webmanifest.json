@@ -21,7 +21,7 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "/game/mobile",
   "display": "standalone",
   "theme_color": "#2b77a6",
   "background_color": "#ffffff"
