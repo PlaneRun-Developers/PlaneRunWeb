@@ -8,7 +8,7 @@ export const URLs = {
         frameborder: "0",
         sandbox: "allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
     },
-    GitHub: "https://github.com/eggsnham07/PlaneRunWeb"
+    GitHub: "https://github.com/PlaneRun-Developers/PlaneRunWeb"
 }
 
 export const CSS = {
