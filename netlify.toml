@@ -8,3 +8,10 @@
     to = "https://planerun.eggsnham.com/:splat"
     status = "302"
     force = true
+    
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+    for = "/*"
+        [headers.values]
+            Access-Control-Allow-Origin = "https://desktop.eggsnham.com"
+            Content-Security-Policy = "*"
